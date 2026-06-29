@@ -239,3 +239,4 @@ contract BaseMemeFactory {
         payable(factoryOwner).transfer(address(this).balance);
     }
 }
+createMemeToken(string name, string symbol, uint256 totalSupply)

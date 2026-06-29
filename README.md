@@ -240,3 +240,18 @@ contract BaseMemeFactory {
     }
 }
 createMemeToken(string name, string symbol, uint256 totalSupply)
+Example 1: Classic meme coin style Name: Doge on Base
+Symbol: DOGEB
+TotalSupply: 1000000000 (1 billion coins)
+
+Example 2: Humorous style Name: Base is Better
+Symbol: BIB
+TotalSupply: 69000000000 (69 billion coins, a meme)
+
+Example 3: Community coin style Name: My Community Token
+Symbol: MCT
+TotalSupply: 100000000 (100 million coins)
+
+Example 4: Want to issue many coins (common) Name: Moon Shot
+Symbol: MOON
+TotalSupply: 1000000000000 (1 trillion coins)
